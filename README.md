@@ -10,3 +10,5 @@
 
 
 [![Bulid CI - windows](https://github.com/Bhanuprasnth/M3_CaR_WipeR_SysteM/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhanuprasnth/M3_CaR_WipeR_SysteM/actions/workflows/windows.yml)
+
+[![Build_CI - Linux](https://github.com/Bhanuprasnth/M3_CaR_WipeR_SysteM/actions/workflows/linux.yml/badge.svg)](https://github.com/Bhanuprasnth/M3_CaR_WipeR_SysteM/actions/workflows/linux.yml)
